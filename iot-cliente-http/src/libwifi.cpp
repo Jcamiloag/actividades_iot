@@ -1,14 +1,14 @@
 #include <WiFi.h>
-#include "libwifi.h"
+#include "libWifi.h"
 
-void conectarWifi(const char * ssid, const char * password){
-    WiFi.begin(ssid, password);
-    Serial.println("Estableciendo vínculo con el AP.");
-    while(WiFi.status() != WL_CONNECTED){
-        Serial.print(".");
-        delay(1000);
+void conectarWifi(const char* ssid, const char* pass){
+    WiFi.begin(ssid, pass);
+    Serial.print("Estableciendo conexion WiFi..");
+    while(WiFi.status() != WL_CONNECTED) {
+      delay(1000);
+      Serial.print(".");
     }
-    Serial.println("\n\nConexion establecida");
-    Serial.print("Numero IP asignado: ");
-    Serial.println(WiFi.localIP()); // Imprime el número IP
-}
+    Serial.println("\nConectado a la red WiFi");
+    Serial.print("\nDireccion IP: ");
+    Serial.println(WiFi.localIP());
+  }

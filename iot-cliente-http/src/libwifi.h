@@ -1,1 +1,1 @@
-void conectarWifi(const char * ssid, const char * password);
+void conectarWifi(const char* ssid, const char* pass);

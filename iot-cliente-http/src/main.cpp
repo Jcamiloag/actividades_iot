@@ -1,57 +1,51 @@
 #include <Arduino.h>
 #include "libwifi.h"
 #include <WiFi.h>
+#include <HTTPClient.h>
 #define LED 2
 
-const char * ssid = "Familia_Ricardo";
-const char * passsword = "Juank172";
-const char * host = "api.thingspeak.com";
-const int port = 80;
-const String apiKey = "9XYOXKFXD9L2S8QE";
+const char *ssid = "Familia_Ricardo";
+const char *passsword = "Juank172";
+const char *thingAPI = "http://codelab.denkitronik.com:8080/thingname/230212001?estado";
 
-void setup() {
+void setup()
+{
   pinMode(LED, OUTPUT);
   Serial.begin(115200);
   Serial.println("Iniciando cliente http");
-  conectarWifi(ssid,passsword);
+  conectarWifi(ssid, passsword);
 }
 
-void loop() {
-  WiFiClient cliente;
-  if(!cliente.connect(host, port)){
-    delay(2000);
-    return;
-  }
-  
-  // Generar valores aleatorios dentro de un rango
-  float temperatura = random(200, 350) / 10.0; 
-  float humedad = random(400, 800) / 10.0; 
+void loop(){
+  if (WiFi.status() == WL_CONNECTED)
+  {
+    HTTPClient http;
 
-  String url = "/update?api_key=" + apiKey + "&field1=" + String(temperatura) + "&field2=" + String(humedad);
+    // Generar valores aleatorios dentro de un rango
+    float temperatura = random(200, 350) / 10.0;
+    float humedad = random(400, 800) / 10.0;
 
-  // Enviar la solicitud HTTP GET
-  cliente.print("GET " + url + " HTTP/1.1\r\n");
-  cliente.print("Host: " + String(host) + "\r\n");
-  cliente.print("Connection: close\r\n\r\n");
+    // String url = "/update?api_key=" + apiKey + "&field1=" + String(temperatura) + "&field2=" + String(humedad);
+    String url = "http://codelab.denkitronik.com:8080/thingname/230212001?humedad=" + String(humedad) + "&temperatura=" + String(temperatura);
 
-  // Agregamos un tiempo de espera para recibir los primeros caracteres del servidor 
-  unsigned long tiempo = millis();
-  while(cliente.available() == 0){
-    if(millis() - tiempo > 5000){
-      Serial.println("Se agota el tiempo de espera");
-      cliente.stop();
-      return;
+    // Enviar la solicitud HTTP GET
+    http.begin(url);
+    int httpCode = http.GET();
+
+    if (httpCode > 0)
+    {
+      String payload = http.getString();
+      Serial.println("Respuesta del servidor: " + payload);
     }
+    else
+    {
+      Serial.println("Error en la solicitud" + String(httpCode));
+    }
+    http.end();
   }
-  while (cliente.available()){
-    String linea = cliente.readStringUntil('\r');
-    Serial.println(linea);
+  else
+  {
+    Serial.println("Error en la conexion wifi");
   }
-  Serial.println("Finalizando conexion");
-  cliente.stop();
-  delay(4000);
+  delay(10000);
 }
-
-
-
-
