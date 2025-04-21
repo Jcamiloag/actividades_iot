@@ -10,7 +10,7 @@ void setup() {
   Serial.println("Nueva version");
   pinMode(2,OUTPUT);
   digitalWrite(2,LOW);
-  setupOTA("ESP32-alvaro-salazar", MI_WIFI, MI_PASS);
+  setupOTA("ESP32-Camilo", MI_WIFI, MI_PASS);
 }
 
 void loop() {
