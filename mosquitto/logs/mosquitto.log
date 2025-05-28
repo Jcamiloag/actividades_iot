@@ -1,0 +1,224 @@
+1743270003: mosquitto version 2.0.21 starting
+1743270003: Config loaded from /mosquitto/config/mosquitto.conf.
+1743270003: Opening ipv4 listen socket on port 1883.
+1743270003: Opening ipv6 listen socket on port 1883.
+1743270003: Opening websockets listen socket on port 9001.
+1743270003: mosquitto version 2.0.21 running
+1743270436: mosquitto version 2.0.21 terminating
+1743270436: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1743271108: mosquitto version 2.0.21 starting
+1743271108: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271108: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271108: Error opening password file "/mosquitto/conf/passwd".
+1743271109: mosquitto version 2.0.21 starting
+1743271109: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271109: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271109: Error opening password file "/mosquitto/conf/passwd".
+1743271110: mosquitto version 2.0.21 starting
+1743271110: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271110: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271110: Error opening password file "/mosquitto/conf/passwd".
+1743271111: mosquitto version 2.0.21 starting
+1743271111: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271111: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271111: Error opening password file "/mosquitto/conf/passwd".
+1743271113: mosquitto version 2.0.21 starting
+1743271113: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271113: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271113: Error opening password file "/mosquitto/conf/passwd".
+1743271115: mosquitto version 2.0.21 starting
+1743271115: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271115: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271115: Error opening password file "/mosquitto/conf/passwd".
+1743271120: mosquitto version 2.0.21 starting
+1743271120: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271120: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271120: Error opening password file "/mosquitto/conf/passwd".
+1743271128: mosquitto version 2.0.21 starting
+1743271128: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271128: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271128: Error opening password file "/mosquitto/conf/passwd".
+1743271141: mosquitto version 2.0.21 starting
+1743271141: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271141: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271141: Error opening password file "/mosquitto/conf/passwd".
+1743271167: mosquitto version 2.0.21 starting
+1743271167: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271167: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271167: Error opening password file "/mosquitto/conf/passwd".
+1743271211: mosquitto version 2.0.21 starting
+1743271211: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271211: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271211: Error opening password file "/mosquitto/conf/passwd".
+1743271212: mosquitto version 2.0.21 starting
+1743271212: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271212: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271212: Error opening password file "/mosquitto/conf/passwd".
+1743271213: mosquitto version 2.0.21 starting
+1743271213: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271213: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271213: Error opening password file "/mosquitto/conf/passwd".
+1743271214: mosquitto version 2.0.21 starting
+1743271214: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271214: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271214: Error opening password file "/mosquitto/conf/passwd".
+1743271215: mosquitto version 2.0.21 starting
+1743271215: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271215: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271215: Error opening password file "/mosquitto/conf/passwd".
+1743271218: mosquitto version 2.0.21 starting
+1743271218: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271218: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271218: Error opening password file "/mosquitto/conf/passwd".
+1743271221: mosquitto version 2.0.21 starting
+1743271221: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271221: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271221: Error opening password file "/mosquitto/conf/passwd".
+1743271228: mosquitto version 2.0.21 starting
+1743271228: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271228: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271228: Error opening password file "/mosquitto/conf/passwd".
+1743271242: mosquitto version 2.0.21 starting
+1743271242: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271242: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271242: Error opening password file "/mosquitto/conf/passwd".
+1743271268: mosquitto version 2.0.21 starting
+1743271268: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271268: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271268: Error opening password file "/mosquitto/conf/passwd".
+1743271316: mosquitto version 2.0.21 starting
+1743271316: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271316: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271316: Error opening password file "/mosquitto/conf/passwd".
+1743271316: mosquitto version 2.0.21 starting
+1743271316: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271316: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271316: Error opening password file "/mosquitto/conf/passwd".
+1743271317: mosquitto version 2.0.21 starting
+1743271317: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271317: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271317: Error opening password file "/mosquitto/conf/passwd".
+1743271318: mosquitto version 2.0.21 starting
+1743271318: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271318: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271318: Error opening password file "/mosquitto/conf/passwd".
+1743271320: mosquitto version 2.0.21 starting
+1743271320: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271320: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271320: Error opening password file "/mosquitto/conf/passwd".
+1743271322: mosquitto version 2.0.21 starting
+1743271322: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271322: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271322: Error opening password file "/mosquitto/conf/passwd".
+1743271326: mosquitto version 2.0.21 starting
+1743271326: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271326: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271326: Error opening password file "/mosquitto/conf/passwd".
+1743271333: mosquitto version 2.0.21 starting
+1743271333: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271333: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271333: Error opening password file "/mosquitto/conf/passwd".
+1743271346: mosquitto version 2.0.21 starting
+1743271346: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271346: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271346: Error opening password file "/mosquitto/conf/passwd".
+1743271372: mosquitto version 2.0.21 starting
+1743271372: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271372: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271372: Error opening password file "/mosquitto/conf/passwd".
+1743271424: mosquitto version 2.0.21 starting
+1743271424: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271424: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271424: Error opening password file "/mosquitto/conf/passwd".
+1743271585: mosquitto version 2.0.21 starting
+1743271585: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271585: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271585: Error opening password file "/mosquitto/conf/passwd".
+1743271586: mosquitto version 2.0.21 starting
+1743271586: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271586: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271586: Error opening password file "/mosquitto/conf/passwd".
+1743271587: mosquitto version 2.0.21 starting
+1743271587: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271587: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271587: Error opening password file "/mosquitto/conf/passwd".
+1743271588: mosquitto version 2.0.21 starting
+1743271588: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271588: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271588: Error opening password file "/mosquitto/conf/passwd".
+1743271590: mosquitto version 2.0.21 starting
+1743271590: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271590: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271590: Error opening password file "/mosquitto/conf/passwd".
+1743271592: mosquitto version 2.0.21 starting
+1743271592: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271592: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271592: Error opening password file "/mosquitto/conf/passwd".
+1743271596: mosquitto version 2.0.21 starting
+1743271596: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271596: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271596: Error opening password file "/mosquitto/conf/passwd".
+1743271602: mosquitto version 2.0.21 starting
+1743271602: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271602: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271602: Error opening password file "/mosquitto/conf/passwd".
+1743271616: mosquitto version 2.0.21 starting
+1743271616: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271616: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271616: Error opening password file "/mosquitto/conf/passwd".
+1743271642: mosquitto version 2.0.21 starting
+1743271642: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271642: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271642: Error opening password file "/mosquitto/conf/passwd".
+1743271957: mosquitto version 2.0.21 starting
+1743271957: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271957: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271957: Error opening password file "/mosquitto/conf/passwd".
+1743271958: mosquitto version 2.0.21 starting
+1743271958: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271958: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271958: Error opening password file "/mosquitto/conf/passwd".
+1743271959: mosquitto version 2.0.21 starting
+1743271959: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271959: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271959: Error opening password file "/mosquitto/conf/passwd".
+1743271960: mosquitto version 2.0.21 starting
+1743271960: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271960: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271960: Error opening password file "/mosquitto/conf/passwd".
+1743271961: mosquitto version 2.0.21 starting
+1743271961: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271961: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271961: Error opening password file "/mosquitto/conf/passwd".
+1743271963: mosquitto version 2.0.21 starting
+1743271963: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271963: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271963: Error opening password file "/mosquitto/conf/passwd".
+1743271967: mosquitto version 2.0.21 starting
+1743271967: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271967: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271967: Error opening password file "/mosquitto/conf/passwd".
+1743271975: mosquitto version 2.0.21 starting
+1743271975: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271975: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271975: Error opening password file "/mosquitto/conf/passwd".
+1743271988: mosquitto version 2.0.21 starting
+1743271988: Config loaded from /mosquitto/config/mosquitto.conf.
+1743271988: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743271988: Error opening password file "/mosquitto/conf/passwd".
+1743272014: mosquitto version 2.0.21 starting
+1743272014: Config loaded from /mosquitto/config/mosquitto.conf.
+1743272014: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743272014: Error opening password file "/mosquitto/conf/passwd".
+1743272066: mosquitto version 2.0.21 starting
+1743272066: Config loaded from /mosquitto/config/mosquitto.conf.
+1743272066: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743272066: Error opening password file "/mosquitto/conf/passwd".
+1743272126: mosquitto version 2.0.21 starting
+1743272126: Config loaded from /mosquitto/config/mosquitto.conf.
+1743272126: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743272126: Error opening password file "/mosquitto/conf/passwd".
+1743272187: mosquitto version 2.0.21 starting
+1743272187: Config loaded from /mosquitto/config/mosquitto.conf.
+1743272187: Error: Unable to open pwfile "/mosquitto/conf/passwd".
+1743272187: Error opening password file "/mosquitto/conf/passwd".
